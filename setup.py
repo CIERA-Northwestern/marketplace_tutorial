@@ -76,6 +76,7 @@ install_requires = [
     'django-ckeditor',
     'psycopg2-binary',
     'Pillow',
+    'django-crispy-forms'
 ]
 
 tests_require = [
